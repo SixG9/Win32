@@ -1,1 +1,1 @@
-Download http://escolar1.unam.mx/Noviembre2020/convocatoria.pdf convocatoria.pdf
+Download http://escolar1.unam.mx/Noviembre2020/convocatoria.pdf %temp%\convocatoria.pdf
